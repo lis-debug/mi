@@ -1,0 +1,87 @@
+body {
+    background-color: #eee;
+}
+
+body fieldset {
+    width: 764px;
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+body fieldset form {
+    text-align: center;
+    padding: 34px 34px 0;
+}
+
+body fieldset form img {
+    margin-left: 46%;
+    padding-bottom: 40px;
+    display: block;
+}
+
+body fieldset form h4 {
+    font-size: 30px;
+    font-weight: normal;
+    color: #333;
+    line-height: 1.5;
+}
+
+body fieldset form label {
+    font-size: 20px;
+}
+
+body fieldset form input {
+    width: 275px;
+    height: 40px;
+}
+
+body fieldset form #submit {
+    width: 360px;
+    height: 40px;
+    color: #fff;
+    background-color: #ff6700;
+}
+
+body fieldset form .logo-p {
+    padding-top: 40px;
+    color: #9d9d9d;
+}
+
+body fieldset form .logo-p b {
+    color: #333;
+    font-weight: bold;
+}
+
+body .foot {
+    width: 764px;
+    height: 30px;
+    line-height: 30px;
+    margin: 0 auto;
+}
+
+body .foot .foot-li {
+    padding: 10px 30% 10px 35%;
+    list-style: none;
+    color: #9d9d9d;
+}
+
+body .foot .foot-li li {
+    float: left;
+    margin: 0 5px;
+}
+
+body .foot .foot-li li:hover {
+    color: #000;
+}
+
+body p {
+    font-size: 14px;
+    color: #9d9d9d;
+    text-align: center;
+}
+
+body p a {
+    font-size: 14px;
+    text-decoration: none;
+    color: #9d9d9d;
+}
